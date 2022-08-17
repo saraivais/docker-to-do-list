@@ -17,6 +17,28 @@ This project was developed using Docker.
 
 ### Installation
 
+1. Create a directory using the **mkdir** command:
+```
+  mkdir saraivais-projects
+```
+
+2. Access the directory using the **cd** command and clone the repository:
+```
+  cd saraivais-projects
+  git clone git@github.com:saraivais/docker-to-do-list.git
+```
+
+3. Access the project directory and use the docker-compose up -d command to create and start the containers:
+```
+  cd docker-to-do-list
+  docker-compose up -d
+```
+
+4. Lastly, access the project via browser, using the following url:
+```
+  http://localhost:3000
+```
+
 
 
 </details>
@@ -38,7 +60,27 @@ Este projeto foi desenvolvido utilizando Docker.
 
 
 ### Instalação
+1. Crie um diretório usando o comando **mkdir**:
+```
+  mkdir saraivais-projetos
+```
 
+2. Acesse o diretório usando o comando **cd** e clone o repositório:
+```
+  cd saraivais-projetos
+  git clone git@github.com:saraivais/docker-to-do-list.git
+```
+
+3. Acesse o diretório do projeto e use o comando docker-compose up -d para criar e iniciar os contêineres:
+```
+  cd lista de tarefas a fazer
+  docker-compose up -d
+```
+
+4. Por fim, acesse o projeto via navegador, usando a seguinte url:
+```
+  http://localhost:3000
+```
 
 </details>
 
