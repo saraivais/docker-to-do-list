@@ -4,7 +4,7 @@ services:
   todofront:
     build: ./todo-app/front-end
     ports:
-      - 3000
+      - 3000:3000
     depends_on:
       - todoback
     environment:
@@ -13,7 +13,7 @@ services:
   todoback:
     build: ./todo-app/back-end
     ports:
-      - 3001
+      - 3001:3001
 
   todotests:
     build: ./todo-app/tests
