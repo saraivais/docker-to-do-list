@@ -9,11 +9,15 @@ This project was developed during the Back-end module at [Trybe](https://www.bet
 The to-do application has it's own README.md, which was used as refference during the project's development.   
 The challenge was to create images for each piece of the application and configure them using a docker-compose file.
 
-### Technologies and Tools
+### Technologies and Tools 
 This project was developed using Docker.
 - Docker Command Line Interface (CLI) Commands;
 - Dockerfile;
 - Docker-compose.
+<br>
+[![My Skills](https://skills.thijs.gg/icons?i=docker&theme=light)](https://skills.thijs.gg)
+<br>
+Docker is an open platform for developing, shipping and running applications throught containerization, allowing them to be isolated. Docker-compose configures each application's container and allows them to be connected.
 
 ### Installation
 
@@ -28,13 +32,18 @@ This project was developed using Docker.
   git clone git@github.com:saraivais/docker-to-do-list.git
 ```
 
-3. Access the project directory and use the docker-compose up -d command to create and start the containers:
+3. Access the project directory:
 ```
   cd docker-to-do-list
+```
+
+4. Access the **docker** directory to and use the **docker-compose up -d** command to create and start the containers:
+```
+  cd docker
   docker-compose up -d
 ```
 
-4. Lastly, access the project via browser, using the following url:
+5. Lastly, access the project via browser, using the following url:
 ```
   http://localhost:3000
 ```
@@ -57,7 +66,10 @@ Este projeto foi desenvolvido utilizando Docker.
 - Comandos na Interface de Linha de Comando (CLI) do Docker;
 - Dockerfile;
 - Docker-compose.
-
+<br>
+[![My Skills](https://skills.thijs.gg/icons?i=docker&theme=light)](https://skills.thijs.gg)
+<br>
+O Docker é uma plataforma aberta para desenvolver, enviar e executar aplicativos por meio da conteinerização, permitindo que eles sejam isolados. O Docker-compose configura o contêiner de cada aplicativo e permite que eles sejam conectados.
 
 ### Instalação
 1. Crie um diretório usando o comando **mkdir**:
@@ -71,13 +83,19 @@ Este projeto foi desenvolvido utilizando Docker.
   git clone git@github.com:saraivais/docker-to-do-list.git
 ```
 
-3. Acesse o diretório do projeto e use o comando docker-compose up -d para criar e iniciar os contêineres:
+3. Acesse o diretório do projeto:
 ```
   cd lista de tarefas a fazer
+```
+
+4. Acesse o diretório **docker** e use o comando **docker-compose up -d** para criar e iniciar os contêineres:
+```
+  janela de encaixe de cd
   docker-compose up -d
 ```
 
-4. Por fim, acesse o projeto via navegador, usando a seguinte url:
+
+5. Por fim, acesse o projeto via navegador, usando a seguinte url:
 ```
   http://localhost:3000
 ```
