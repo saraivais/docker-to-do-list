@@ -1,4 +1,4 @@
-<h1 align=”center”>DOCKER TO-DO LIST 🐋</h1>
+<h1 align="center">DOCKER TO-DO LIST 🐋</h1>
 
 ## English 🇬🇧
 <details>
@@ -15,7 +15,7 @@ This project was developed using Docker.
 - Dockerfile;
 - Docker-compose.
 <br>
-[![My Skills](https://skills.thijs.gg/icons?i=docker&theme=light)](https://skills.thijs.gg)
+<img src="https://user-images.githubusercontent.com/96205316/185253359-6d9ea996-b398-43d0-bd75-bcbef416bcf3.png" width="200" alt="docker-icon"/>
 <br>
 Docker is an open platform for developing, shipping and running applications throught containerization, allowing them to be isolated. Docker-compose configures each application's container and allows them to be connected.
 
@@ -67,7 +67,7 @@ Este projeto foi desenvolvido utilizando Docker.
 - Dockerfile;
 - Docker-compose.
 <br>
-[![My Skills](https://skills.thijs.gg/icons?i=docker&theme=light)](https://skills.thijs.gg)
+<img src="https://user-images.githubusercontent.com/96205316/185253359-6d9ea996-b398-43d0-bd75-bcbef416bcf3.png" width="200" alt="docker-icon"/>
 <br>
 O Docker é uma plataforma aberta para desenvolver, enviar e executar aplicativos por meio da conteinerização, permitindo que eles sejam isolados. O Docker-compose configura o contêiner de cada aplicativo e permite que eles sejam conectados.
 
