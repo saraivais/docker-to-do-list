@@ -10,7 +10,10 @@ The to-do application has it's own README.md, which was used as refference durin
 The challenge was to create images for each piece of the application and configure them using a docker-compose file.
 
 ### Technologies and Tools
-
+This project was developed using Docker.
+- Docker Command Line Interface (CLI) Commands;
+- Dockerfile;
+- Docker-compose.
 
 ### Installation
 
@@ -28,9 +31,14 @@ A aplicação to-do list possui seu próprio README.md, que foi utilizado como r
 O desafio foi criar imagens para cada parte da aplicação e configurá-las usando um arquivo docker-compose.
 
 ### Tecnologias e Ferramentas
+Este projeto foi desenvolvido utilizando Docker.
+- Comandos na Interface de Linha de Comando (CLI) do Docker;
+- Dockerfile;
+- Docker-compose.
 
 
 ### Instalação
+
 
 </details>
 
