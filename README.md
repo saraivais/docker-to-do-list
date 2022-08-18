@@ -85,12 +85,12 @@ O Docker é uma plataforma aberta para desenvolver, enviar e executar aplicativo
 
 3. Acesse o diretório do projeto:
 ```
-  cd lista de tarefas a fazer
+  cd docker-to-do-list
 ```
 
 4. Acesse o diretório **docker** e use o comando **docker-compose up -d** para criar e iniciar os contêineres:
 ```
-  janela de encaixe de cd
+  cd docker
   docker-compose up -d
 ```
 
